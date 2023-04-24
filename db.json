@@ -32,7 +32,6 @@
       "year": "2020",
       "link": "https://www.burg-halle.de/",
       "image": "https://plus.unsplash.com/premium_photo-1675788312766-4cdfbf67f59f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
-
     },
     {
       "id": 896,
@@ -41,7 +40,7 @@
       "description": "This is the example text about the Stoff 04 fabric displayed on this page. More to come.",
       "client": "Selbstvermarktung",
       "type of binding": "Köper",
-      "year": "2020"
+      "year": "2020",
       "link": "https://www.burg-halle.de/",
       "image": "https://images.unsplash.com/photo-1643313260651-9c335822ecde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
     }
