@@ -1,6 +1,17 @@
 {
   "fabrics": [
     {
+      "id": 144,
+      "category": "fabric",
+      "title": "Test",
+      "description": "This is the example text about the Bauhaus fabric displayed on this page. More to come.",
+      "client": "Weberei Test",
+      "type": "Test",
+      "year": "Test",
+      "link": "https://www.bauhaus-dessau.de/de/index.html",
+      "image": "https://plus.unsplash.com/premium_photo-1675855542727-da00f9c19201?auto=format&fit=crop&q=80&w=2787&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    },
+    {
       "id": 123,
       "category": "fabric",
       "title": "Bauhaus Dessau Vorhangstoff",
