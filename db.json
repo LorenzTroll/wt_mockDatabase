@@ -58,7 +58,7 @@
   ],
 "events" : [
     {
-      "titel": "Tag des offenen Ateliers",
+      "titel": "Offenes Atelier",
       "beschreibung": "Hier kannst du Veranstaltungen auftauchen lassen. Wenn die Anführungsstrichte im JSON file leer sind wird dieser Bereich nicht sichtbar sein."
     }
   ]
