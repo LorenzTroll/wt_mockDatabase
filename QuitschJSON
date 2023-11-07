@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "id": 01,
+      "category": "Animation",
+      "title": "Hotel Astoria",
+      "description": "This is the example text about the Bauhaus fabric displayed on this page. More to come.",
+      "credits": "<br>Drehbuch</br> Alina Cyranek Regie Alina Cyranek und Falk Schuster, <br>Produktion</br> hug films GbR Alina Cyranek und Falk Schuster <br>Layout</br> Tim Romanowsky, AlexanderSchmidt, Falk Schuster <br>Animation</br> Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt <br>Compositing und Grading</br> Julian Quitsch <br>Musik und Sound</br> Klangfee",
+      "lenght": "28 Minuten",
+      "year": "Animadok, 2020",
+      "link": "https://www.bauhaus-dessau.de/de/index.html",
+      "image": "https://plus.unsplash.com/premium_photo-1675855542727-da00f9c19201?auto=format&fit=crop&q=80&w=2787&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+      "video": ""
+    }
+  ],
+  "festivals": [
+    {
+      "festival-1": "Filmfestival A",
+      "festival-2": "Filmfestival B",
+      "festival-3": "Filmfestival C",
+    }
+  ],
+  "informations": [
+    {
+      "landing-page": "";
+      "about-headline": "";
+      "about-text": "";
+      "award-headline": "";
+      "award-text": "";
+    }
+  ]
+}
